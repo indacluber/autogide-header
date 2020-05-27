@@ -80,7 +80,7 @@ header div section p {
   /* text-align: center; */
   /* border: 1px solid transparent; */
   border-radius: 98px;
-  /* margin: 0 auto; */
+  margin: 0 auto;
   box-shadow: 10px 9px 10px var(--main-color);
 }
 @media (min-width: 610px) {
