@@ -51,8 +51,8 @@ header nav .top-menu li a:hover {
 
   header nav .top-menu {
     flex: 1;
-    margin: 10px;
     justify-content: flex-end;
+    margin: 10px;
   }
   header nav .logo {
     margin-left: 20px;
