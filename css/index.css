@@ -51,7 +51,6 @@ header nav .top-menu li a:hover {
 
   header nav .top-menu {
     flex: 1;
-    justify-content: space-around;
     margin: 10px;
     justify-content: flex-end;
   }
